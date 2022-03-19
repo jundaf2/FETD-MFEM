@@ -1,0 +1,45 @@
+{
+  "dsets": {
+    "main": {
+      "cycle": 9,
+      "domains": 1,
+      "fields": {
+        "B": {
+          "path": "FETD-Vis_000009/B.%06d",
+          "tags": {
+            "assoc": "nodes",
+            "comps": "3",
+            "lod": "1"
+          }
+        },
+        "E": {
+          "path": "FETD-Vis_000009/E.%06d",
+          "tags": {
+            "assoc": "nodes",
+            "comps": "3",
+            "lod": "1"
+          }
+        },
+        "J": {
+          "path": "FETD-Vis_000009/J.%06d",
+          "tags": {
+            "assoc": "nodes",
+            "comps": "3",
+            "lod": "1"
+          }
+        }
+      },
+      "mesh": {
+        "format": "0",
+        "path": "FETD-Vis_000009/mesh.%06d",
+        "tags": {
+          "max_lods": "32",
+          "spatial_dim": "3",
+          "topo_dim": "3"
+        }
+      },
+      "time": 1.6000000000000004e-10,
+      "time_step": 0
+    }
+  }
+}

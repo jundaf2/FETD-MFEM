@@ -1,0 +1,14 @@
+/home/jundafeng/Desktop/clion-2021.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/jundafeng/CLionProjects/FETD
+-- CONFIG = /home/jundafeng/CLionProjects/FETD/config/defaults.cmake
+-- Additional Lib/Include Path: /home/jundafeng/EMoffice
+-- USE_XSDK_DEFAULTS = 'OFF'
+-- MFEM: using package OPENMP
+-- MFEM: using package NETCDF
+-- MFEM: using package POSIXCLOCKS
+-- MFEM: using package ZLIB
+-- MFEM: using package OpenMP
+-- CMAKE_INSTALL_PREFIX = /usr/local
+-- TPL_LIBRARIES = /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so;/usr/lib/x86_64-linux-gnu/libpthread.so;/home/jundafeng/EMoffice/lib/libnetcdf.a;/usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5.so;/usr/lib/x86_64-linux-gnu/libz.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jundafeng/CLionProjects/FETD/cmake-build-debug
