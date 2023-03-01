@@ -6,4 +6,4 @@ cmake ..
 make
 ./fetd
 ```
-One can modify the settings of the FETD problem in `fetd.cpp`.
+One can modify the settings of the FETD problem in the entry point -- `fetd.cpp`.
